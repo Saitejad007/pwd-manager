@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Hex: #9ba9eb
+Hex: #c3caea
+Hex: #5763a5
+Hex: #f8fafc
+Hex: #454f84
+Hex: #0b69ff
+Hex: #94a3b8
+Hex: #b6c3ca
+Hex: #7683cb
+Hex: #f59e0b
+Hex: #10b981
+Hex: #f97316
+Hex: #14b8a6
+Hex: #b91c1c
+Hex: #ffffff
+Hex: #0ea5e9
+Hex: #64748b */
